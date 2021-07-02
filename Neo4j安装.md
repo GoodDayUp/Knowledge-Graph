@@ -9,8 +9,7 @@
 https://neo4j.com/download-center/ 
 
 配置环境变量
-
-![image-20210702145238322](C:\Users\laoliang\AppData\Roaming\Typora\typora-user-images\image-20210702145238322.png)
+![image](https://user-images.githubusercontent.com/52813902/124247204-38b42d00-db54-11eb-859f-878f7cb26110.png)
 
 3.启动Neo4j程序
 
