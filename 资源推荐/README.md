@@ -1,1 +1,2 @@
 - 1、东南大学《知识图谱》：https://github.com/npubird/KnowledgeGraphCourse
+- 2、斯坦福大学知识图谱：https://www.bilibili.com/video/BV12k4y1R76Q?from=search&seid=10873826760765285556
