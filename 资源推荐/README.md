@@ -1,1 +1,1 @@
-- 1、东南大学《知识图谱》
+- 1、东南大学《知识图谱》：https://github.com/npubird/KnowledgeGraphCourse
