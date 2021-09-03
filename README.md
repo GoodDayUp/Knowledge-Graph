@@ -1,2 +1,3 @@
 - [美团商品知识图谱的构建及应用](https://mp.weixin.qq.com/s/mFulX3gxAu7qQrPNFLZ6Zg)
 - [惠每科技：知识图谱在临床风险评估中的应用](https://mp.weixin.qq.com/s/IQFpLF90kUYRPyJeSXSt3Q)
+- [平安人寿智能平台团队：智能问答系统的探索与实践](https://www.bilibili.com/video/BV1Ub411H73G)
